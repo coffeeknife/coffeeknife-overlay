@@ -15,4 +15,3 @@ emaint sync -r coffeeknife-overlay
 | --- | --- | --- |
 | [app-misc/dotter](https://github.com/SuperCuber/dotter) | 0.13.3 ~amd64 | SuperCuber's dotter: A dotfile manager and templater written in rust 🦀 |
 | [mail-client/proton-mail-bin](https://proton.me/mail/download) | 1.7.1 ~amd64 | Official desktop client for [proton.me](https://proton.me). Uses their RPM. |
-| [games-util/gamemode](https://github.com/FeralInteractive/gamemode) | 1.8.2 ~amd64 | Same ebuild as `gentoo`. Cloned due to manifest error. |
